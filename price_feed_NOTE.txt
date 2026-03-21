@@ -1,0 +1,8 @@
+"""
+price_feed.py — Real-time BTC price feed via Binance WebSocket + REST fallback.
+(Unchanged from baseline — already well-implemented with multi-source fallbacks.)
+See /mnt/project/price_feed.py for full implementation.
+Copy price_feed.py from your base project — no changes needed.
+"""
+# This file is intentionally a placeholder.
+# Copy /mnt/project/price_feed.py directly — it already has OKX/Binance/Coinbase/Kraken fallbacks.

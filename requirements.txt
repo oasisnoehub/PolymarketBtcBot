@@ -1,0 +1,8 @@
+py-clob-client==0.34.5
+python-dotenv>=1.0.0
+requests>=2.31.0
+websocket-client>=1.8.0
+eth-account>=0.10.0
+flask>=3.0.0
+flask-socketio>=5.3.6
+eventlet>=0.36.1

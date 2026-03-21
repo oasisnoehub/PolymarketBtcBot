@@ -1,0 +1,29 @@
+# Credentials & secrets
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
